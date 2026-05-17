@@ -1,6 +1,7 @@
 .env
 *.session
 *.session-journal
+telegram_session.txt
 telegram_groups_*.json
 tor_search_results_*.json
 search_results_*.json
@@ -9,4 +10,3 @@ __pycache__/
 id.png
 .venv/
 venv/
-
