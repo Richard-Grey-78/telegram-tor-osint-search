@@ -1,0 +1,12 @@
+.env
+*.session
+*.session-journal
+telegram_groups_*.json
+tor_search_results_*.json
+search_results_*.json
+__pycache__/
+*.py[cod]
+id.png
+.venv/
+venv/
+
